@@ -41,9 +41,7 @@ typedef struct User_Info{   //用户信息结构
  }UInfo,*pUInfo;
  
  char UsrName[30];
- 
 
- 
  int main (void)
  {
 	 FILE *filp;
